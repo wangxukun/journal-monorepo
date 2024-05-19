@@ -1,0 +1,9 @@
+{
+  "name": "journal-admin",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/journal-admin",
+  "projectType": "application",
+  "tags": [],
+  "// targets": "to see all targets run: nx show project journal-admin --web",
+  "targets": {}
+}

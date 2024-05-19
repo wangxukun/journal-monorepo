@@ -1,0 +1,9 @@
+{
+  "name": "journal-admin-e2e",
+  "$schema": "../../node_modules/nx/schemas/project-schema.json",
+  "sourceRoot": "apps/journal-admin-e2e/src",
+  "tags": [],
+  "implicitDependencies": ["journal-admin"],
+  "// targets": "to see all targets run: nx show project journal-admin-e2e --web",
+  "targets": {}
+}
